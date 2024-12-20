@@ -13,5 +13,6 @@ follow these steps:
 
    Use bash cmd to prvent vps abuse 
 
-   ```bash anti.sh
+   ```bash
+   bash anti.sh
    ```
