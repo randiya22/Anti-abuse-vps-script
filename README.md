@@ -1,6 +1,6 @@
-## Getting Started ANTI VPS ABUSE MINIG SCRIPT MAKED BY THEBOYS.JS 
+## Getting Started on Anti Mining Script 
 
-follow these steps:
+Follow these steps:
 
 1. **Clone the repository:**
 
