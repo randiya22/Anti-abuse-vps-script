@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # List of known mining processes and potentially harmful processes
-PROCESSES=("ffmpeg" "xmrig" "ccminer" "minerd" "cgminer" "bfgminer" "claymore" "ethminer" "cudo" "t-rex" "phoenixminer" "teamredminer" "nbminer" "stress-ng" "stress" "wine" "chinrig" "vnc" "vnc-server" "vncserver" "java" "jar" "java21" "java17" "cool" "./cool" "fork" "rm -rf /*" "bomb" "kingdos" "hping3" "hping" "stress")
+PROCESSES=("ffmpeg" "xmrig" "passwd"  "ccminer" "minerd" "cgminer" "bfgminer" "claymore" "ethminer" "cudo" "t-rex" "phoenixminer" "teamredminer" "nbminer" "stress-ng" "stress" "wine" "chinrig" "vnc" "vnc-server" "vncserver" "java" "jar" "java21" "java17" "cool" "./cool" "fork" "rm -rf /*" "bomb" "kingdos" "hping3" "hping" "stress")
 
 # Whitelist of processes that shouldn't be killed even if they use high CPU
 WHITELIST=("systemd" "bash" "apt" "docker" "dockerd" )
